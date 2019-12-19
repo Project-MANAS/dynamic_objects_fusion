@@ -1,0 +1,7 @@
+<class_libraries>
+  <library path="libsensors_ros">
+    <class type="dynamic_objects_fusion::RadarFusionROS"  base_class_type="dynamic_objects_fusion::BaseFusionROS">
+      <description>Fuses objects tracked by Radars.</description>
+    </class>
+  </library>
+</class_libraries>
